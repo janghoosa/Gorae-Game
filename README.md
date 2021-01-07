@@ -16,6 +16,6 @@
 
 
 #### 게임 화면
-![게임화면](./게임화면.png)
+![게임화면](/imgs/게임화면.png)
 
 #### 게임 시연 연상 https://youtu.be/rERgkTgnJe0 
