@@ -16,6 +16,6 @@
 
 
 #### 게임 화면
-![게임화면](/imgs/게임화면.png)
+![게임화면](https://user-images.githubusercontent.com/39695780/103877967-1f887180-5119-11eb-91b7-433d3a56cbf3.PNG)
 
 #### 게임 시연 연상 https://youtu.be/rERgkTgnJe0 
